@@ -18,7 +18,7 @@ public class Main {
 
         assertArrayEquals(inputs, expects);
     }
-    //can't find error
+
 	// to sort in ascending order
     public static void bubbleSort(int[] data) {
 		// check data size
