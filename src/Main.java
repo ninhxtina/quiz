@@ -16,7 +16,7 @@ public class Main {
 
         bubbleSort(inputs);
 
-        assertTrue(Arrays.equals(inputs, expects));
+        assertArrayEquals(inputs, expects);
     }
     //can't find error
 	// to sort in ascending order
